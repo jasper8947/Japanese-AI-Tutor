@@ -137,6 +137,13 @@ applicable context（適用語境）
 
 ---
 
+## Demo
+
+<img src="assets/demo.gif" alt="System Demo" width="800">
+
+
+---
+
 ## 備註
 本專案是一個以學習為導向的 AI 應用實作，主要探索：
 
