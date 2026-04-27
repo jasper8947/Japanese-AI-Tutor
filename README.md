@@ -18,6 +18,11 @@
 - 如何建立 LLM pipeline
 
 ---
+## Demo
+
+<img src="assets/demo.gif" alt="System Demo" width="800">
+
+---
 
 ## 系統架構
 使用者輸入  
@@ -134,13 +139,6 @@ streamlit run app.py
 error type（錯誤類型）  
 examples（正確/錯誤例句）  
 applicable context（適用語境）
-
----
-
-## Demo
-
-<img src="assets/demo.gif" alt="System Demo" width="800">
-
 
 ---
 
